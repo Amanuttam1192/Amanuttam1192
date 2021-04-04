@@ -16,8 +16,6 @@
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Canva | Visual Studio code | Git|Sublime| Android Studio
 ### Most Comfortable to meet me on:
-
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/khushi0704/)💻
  - Fire Me an [Email](mailto:amanuttam23@gmail.com) 💌
  - Text me on [Instagram](https://www.instagram.com/aman__1109/)
  - Tag me on [facebook](https://www.facebook.com/aman.uttam.1829)
