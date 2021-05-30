@@ -17,7 +17,7 @@
 - 🔧 &nbsp; Canva | Visual Studio code | Git|Sublime| Android Studio
 
 
-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanuttam1192&hide=java,html,css&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanuttam1192&hide=java,html,scss&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 
 
