@@ -4,7 +4,7 @@
 <h3> 💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently a rookie Web Developer.
-- 🤔 &nbsp; Finding New ways to Explore technologies fot quick sustainment.
+- 🤔 &nbsp; Finding New ways to Explore technologies for quick sustainment.
 - 🎓 &nbsp; Studying Computer Science Engeering
 - ✍️ &nbsp; An automobile enthusiast,keening towards J.D.M's.
 - ☕ &nbsp; Caffine is life bro. 
