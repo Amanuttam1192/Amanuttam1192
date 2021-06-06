@@ -30,7 +30,6 @@
  - Tag me on [facebook](https://www.facebook.com/aman.uttam.1829)
  <h1>https://amanuttam1192.github.io/</h1>
  <h1>https://lickalook123.github.io/Hangman.github.io/</h1>
- <h1>https://amanuttam1192.github.io/</h1>
  <h1> https://amanuttam117.github.io/ </h1>
  
  <h2>Hasta La Vista👋</h2>
