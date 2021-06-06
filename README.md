@@ -19,6 +19,7 @@
 
 
 - <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanuttam1192&show_icons=true&locale=en&layout=compact&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amanuttam1192" />
+- - <img align="center" src="https://amanuttam1192.github.io/" alt="Amanuttam1192" />
 
 
 
