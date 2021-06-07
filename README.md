@@ -29,7 +29,7 @@ Aae hai to visit krke jaaiye!!!!.
 | Where | What |
 |-:|:-| 
 | [![Website](https://img.shields.io/badge/Website-593D88?style=for-the-badge&logo=Google%20Earth&logoColor=white)](https://amanuttam1192.github.io/) | Aah man!spent ages in making it,just hop in to see my projects |
-| [![blog](https://img.shields.io/badge/Blog-%2336465D.svg?&style=for-the-badge&logo=Tumblr&lo goColor=white)](https://amanuttam1192.github.io/#about) |These are my projects,dont react on the icon please |
+| [![Blog](https://img.shields.io/badge/Blog-%2336465D.svg?&style=for-the-badge&logo=Tumblr&lo goColor=white)](https://amanuttam1192.github.io/#about) |These are my projects,dont react on the icon please |
 | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aman.uttam.1829) | I actively post pictures, and post very often. |
 | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AmanUttam10) | Aint that active,but come to me. |
 | [![Instagram](https://img.shields.io/badge/Instagram-F60023?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aman__1109/) |This is the best place,Most active,Come here any time. |
