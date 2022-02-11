@@ -24,8 +24,7 @@
 
 
 - <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanUttam1192&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The Github Stats">
-## Aap yaha aae kis liye?
-Aae hai to visit krke jaaiye!!!!.
+## Sab Visit Karke Jana.
 | Where | What |
 |-:|:-| 
 | [![Website](https://img.shields.io/badge/Website-593D88?style=for-the-badge&logo=Google%20Earth&logoColor=white)](https://amanuttam1192.github.io/) | Aah man!spent ages in making it,just hop in to see my projects |
