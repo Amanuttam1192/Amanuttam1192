@@ -18,12 +18,12 @@
 
 
 
-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanuttam1192&show_icons=true&locale=en&layout=compact&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amanuttam1192" />
-
-
+- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanuttam1192&show_icons=true&locale=en&layout=compact&title_color=00ff7f&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Amanuttam1192" />
 
 
 - <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanUttam1192&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="The Github Stats">
+
+- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanuttam1192&" alt="Amanuttam1192" /></p>
 ## Sab Visit Karke Jana.
 | Where | What |
 |-:|:-| 
