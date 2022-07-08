@@ -8,7 +8,6 @@
 - 🎓 &nbsp; Studying Computer Science Engeering
 - ✍️ &nbsp; An automobile enthusiast,keening towards J.D.M's.
 - ☕ &nbsp; Caffine is life bro. 
-<hr>
 <h3>🛠 Tech Stack</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=anthon&size=26&duration=5002&color=D32EFF&lines=C%2FC%2B%2B+%7C+Python+%7C+Java;HTML+%7C+CSS+%7C+JavaScript+%7CHTML5;MySQL+%7C+MongoDB;Canva+%7C+Visual+Studio+code+%7C+Git%7CSublime%7C+Android+Studio)](https://git.io/typing-svg)
