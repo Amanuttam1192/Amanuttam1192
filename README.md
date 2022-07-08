@@ -17,7 +17,7 @@
 - 🔧 &nbsp; Canva | Visual Studio code | Git|Sublime| Android Studio
 
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanuttam1192&count_private=true&theme=midnight-purple&show_icons=true)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanuttam1192&count_private=true&theme=midnight-purple&show_icons=true&hide=issues)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanuttam1192&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanuttam1192&theme=tokyonight" >  <hr>    ![](https://komarev.com/ghpvc/?username=Amanuttam1192&label=PROFILE+VIEWS&color=brightgreen&style=flat-square)
