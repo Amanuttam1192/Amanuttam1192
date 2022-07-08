@@ -11,6 +11,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&color=F71DE4&lines=C%2FC%2B%2B+%7C+Python+%7C+Java;HTML+%7C+CSS+%7C+JavaScript+%7CHTML5;MySQL+%7C+MongoDB;Canva+%7C+Visual+Studio+code+%7C+Git%7CSublime%7C+Android+Studio)](https://git.io/typing-svg)
+
 - 💻 &nbsp; Python | C/C++|Dart
 - 🌐 &nbsp; HTML | CSS | JavaScript |HTML5
 - 🛢 &nbsp; MySQL | MongoDB
