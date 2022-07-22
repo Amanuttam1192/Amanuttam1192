@@ -41,6 +41,6 @@
  <h1>https://amanuttam1192.github.io/</h1>
  <h1>https://lickalook123.github.io/Hangman.github.io/</h1>
  <h1> https://amanuttam117.github.io/ </h1>
- <h1>https://amanuttam1109.github.io/</h1>
- ![] (https://komarev.com/ghpvc/?username=Amanuttam1192&label=PROFILE+VIEWS&color=brightgreen&style=flat-square)
+ <h1>https://amanuttam1109.github.io/</h1> 
+<img src="https://komarev.com/ghpvc/?username=Amanuttam1192&label=PROFILE+VIEWS&color=brightgreen&style=flat-square"/>
  <h2>Hasta La Vista👋</h2>
