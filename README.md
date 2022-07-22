@@ -21,8 +21,11 @@
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanuttam1192&count_private=true&theme=algolia&show_icons=true&hide=issues)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanuttam1192&theme=github-dark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanuttam1192&count_private=true&theme=algolia" >  <hr>    ![](https://komarev.com/ghpvc/?username=Amanuttam1192&label=PROFILE+VIEWS&color=brightgreen&style=flat-square)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amanuttam1192&count_private=true&theme=algolia" >  <hr>    
+<p align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/Amanuttam1192/count.svg" />
+</p>
  
 
 ## Sab Visit Karke Jana.
@@ -39,5 +42,5 @@
  <h1>https://lickalook123.github.io/Hangman.github.io/</h1>
  <h1> https://amanuttam117.github.io/ </h1>
  <h1>https://amanuttam1109.github.io/</h1>
- 
+ ![] (https://komarev.com/ghpvc/?username=Amanuttam1192&label=PROFILE+VIEWS&color=brightgreen&style=flat-square)
  <h2>Hasta La Vista👋</h2>
