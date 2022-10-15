@@ -18,7 +18,7 @@
 - 🔧 &nbsp; Canva | Visual Studio code | Git|Sublime| Android Studio
 
 
-<a href="http://www.github.com/Amanuttam1192"><img src="https://activity-graph.herokuapp.com/graph?username=Amanuttam1192&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&count_private=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Amanuttam1192"><img src="https://activity-graph.herokuapp.com/graph?username=Amanuttam1192&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&count_private=true&custom_title=Aman's%20Commits%20Graph" alt="Aman's Commits Graph" /></a>
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanuttam1192&count_private=true&theme=algolia&show_icons=true&hide=issues)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanuttam1192&theme=github-dark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
