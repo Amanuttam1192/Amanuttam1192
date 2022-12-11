@@ -18,7 +18,7 @@
 - 🔧 &nbsp; Canva | Visual Studio code | Git|Sublime| Android Studio
 
 
-[![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Amanuttam1192)](https://github.com/Amanuttam1192/github-readme-activity-graph) 
+[![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Amanuttam1192&theme=tokyo-night&count_private=true)](https://github.com/Amanuttam1192/github-readme-activity-graph) 
 <br>
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanuttam1192&count_private=true&theme=algolia&show_icons=true&hide=issues)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Amanuttam1192&theme=github-dark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
